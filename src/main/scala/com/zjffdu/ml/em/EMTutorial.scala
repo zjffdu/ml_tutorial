@@ -23,8 +23,8 @@ object EMTutorial {
 
   def main(args: Array[String]) {
 
-    var theta_A = 0.7
-    var theta_B = 0.1
+    var theta_A = 0.6
+    var theta_B = 0.5
     var delta = 0.001
     var new_theta_A: Double = theta_A
     var new_theta_B: Double = theta_B
